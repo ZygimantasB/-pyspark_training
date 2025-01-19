@@ -2,4 +2,5 @@
 *.iml
 data
 output.txt
-.env
+/YouTube/PySpark - Zero to Hero/datasets/
+/data.ipynb
