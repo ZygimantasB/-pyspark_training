@@ -5,3 +5,8 @@ output.txt
 /YouTube/PySpark - Zero to Hero/datasets/
 /data.ipynb
 test.ipynb
+YouTube/PySpark - Zero to Hero/metastore_db/
+*.log
+*.parquet
+*.crc
+_SUCCESS
