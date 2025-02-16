@@ -10,3 +10,8 @@ YouTube/PySpark - Zero to Hero/metastore_db/
 *.parquet
 *.crc
 _SUCCESS
+*.dat
+*.txt
+*.properties
+*.ctrl
+*.lck
